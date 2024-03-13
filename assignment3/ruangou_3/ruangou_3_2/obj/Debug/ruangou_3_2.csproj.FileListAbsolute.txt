@@ -1,0 +1,8 @@
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\bin\Debug\ruangou_3_2.exe.config
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\bin\Debug\ruangou_3_2.exe
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\bin\Debug\ruangou_3_2.pdb
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\obj\Debug\ruangou_3_2.csproj.AssemblyReference.cache
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\obj\Debug\ruangou_3_2.csproj.SuggestedBindingRedirects.cache
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\obj\Debug\ruangou_3_2.csproj.CoreCompileInputs.cache
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\obj\Debug\ruangou_3_2.exe
+D:\programming_tools\vs\vs_code\ruangou_3\ruangou_3_2\obj\Debug\ruangou_3_2.pdb
