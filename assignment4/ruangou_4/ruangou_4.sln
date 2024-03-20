@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ruangou_4_1", "ruangou_4_1\ruangou_4_1.csproj", "{8D26E991-C7BA-422D-894C-6B2DC2CAF3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ruangou_4_2", "ruangou_4_2\ruangou_4_2.csproj", "{571E1E49-D3BC-4E3F-89C3-AD7492E4171F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D26E991-C7BA-422D-894C-6B2DC2CAF3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D26E991-C7BA-422D-894C-6B2DC2CAF3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D26E991-C7BA-422D-894C-6B2DC2CAF3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D26E991-C7BA-422D-894C-6B2DC2CAF3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571E1E49-D3BC-4E3F-89C3-AD7492E4171F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571E1E49-D3BC-4E3F-89C3-AD7492E4171F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571E1E49-D3BC-4E3F-89C3-AD7492E4171F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571E1E49-D3BC-4E3F-89C3-AD7492E4171F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD7C537-E469-4F85-8ECF-942F0669D837}
+	EndGlobalSection
+EndGlobal
