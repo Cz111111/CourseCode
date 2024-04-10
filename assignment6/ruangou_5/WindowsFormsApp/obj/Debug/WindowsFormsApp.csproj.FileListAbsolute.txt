@@ -1,0 +1,11 @@
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\programming_tools\vs\vs_code\ruangou_5\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
