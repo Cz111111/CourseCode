@@ -1,0 +1,8 @@
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.csproj.AssemblyReference.cache
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.AssemblyInfoInputs.cache
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.AssemblyInfo.cs
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.csproj.CoreCompileInputs.cache
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.MvcApplicationPartsAssemblyInfo.cache
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.RazorAssemblyInfo.cache
+D:\programming_tools\vs\vs_code\ruangou_9\ruangou_9\obj\Debug\net6.0\ruangou_9.RazorAssemblyInfo.cs
