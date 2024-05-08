@@ -1,0 +1,15 @@
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_win.exe.config
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_win.exe
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_win.pdb
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_model.exe
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_model.pdb
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\bin\Debug\ruangou_6_model.exe.config
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.csproj.AssemblyReference.cache
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.csproj.SuggestedBindingRedirects.cache
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.Form1.resources
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.Properties.Resources.resources
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.csproj.GenerateResource.cache
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.csproj.CoreCompileInputs.cache
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.csproj.CopyComplete
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.exe
+D:\programming_tools\git\repositories\CourseCode\assignment6\ruangou_6\ruangou_6_win\obj\Debug\ruangou_6_win.pdb
